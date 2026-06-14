@@ -473,6 +473,13 @@ plt.show()
 
 ---
 
+## **Deployment**
+
+Deployment model dapa dilihat pada link di bawah ini:
+
+https://huggingface.co/spaces/arbinnn/student_stress
+
+---
 ## **Analisis Ketidakseimbangan Data**
 
 Kedua model memiliki performa yang jauh lebih baik dalam memprediksi kelas 'Tidak Stress' (contohnya F1-score 0.86 pada Naive Bayes) dibandingkan kelas 'Stress' (F1-score: 0.66 pada Naive Bayes). Hal ini dipengaruhi oleh jumlah sampel data training kelas 'Tidak Stress' yang dua kali lipat lebih banyak daripada kelas 'Stress' (support 2627 vs 1258). Efeknya, model lebih kaya akan informasi mengenai karakteristik mahasiswa yang tidak stres.
