@@ -475,7 +475,7 @@ plt.show()
 
 ## **Deployment**
 
-Deployment model dapa dilihat pada link di bawah ini:
+Deployment model dapat dilihat pada link di bawah ini:
 
 https://huggingface.co/spaces/arbinnn/student_stress
 
